@@ -6,5 +6,6 @@ public class mainApp1 {
         int e = 5;
         System.out.println(b + " raised to the power of " + e + " is " + myLibrary.power(b, e));
         System.out.println(e + "! is " + myLibrary.factorial(e));
+        System.out.println("Program End");
     }
 }
